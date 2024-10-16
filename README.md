@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/nicholson-joseph-jr-8570202aa/
 
 <!---
 nicholsonjosephjr/nicholsonjosephjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
